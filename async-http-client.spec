@@ -1,7 +1,7 @@
 
 Name:           async-http-client
 Version:        1.6.1
-Release:        1
+Release:        3
 Summary:        Asynchronous Http Client for Java
 
 Group:          Development/Java
